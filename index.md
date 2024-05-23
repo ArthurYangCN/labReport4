@@ -29,6 +29,7 @@ I used `G<enter>, 6k<enter>, f1<enter>, r2<enter>, :wq<enter>` to successfully c
 `bash<space>test.sh<enter>`
 I used `bash` command to run the test command in `test.sh` file.
 I used <space> and <enter> keys to successfully run the command.
+
 Result:
 ![Image](screenshot2.png)
 
