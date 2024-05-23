@@ -24,6 +24,7 @@ Results:
 `G<enter>, 6k<enter>, f1<enter>, r2<enter>, :wq<enter>`
 I used `vim` command to edit `ListExamples.java` file which contains error.
 I used `G<enter>, 6k<enter>, f1<enter>, r2<enter>, :wq<enter>` to successfully change `index1 += 1;` to `index2 += 1;` to fix the problem.
+I use `G` to move the cursor to the end of the document. Then, I count how many lines I should move to the target line. So, I press `6k`. Then `f1` to find the character 1. Lastly, `r2` to replace 1 to 2. `:wq` to exit the vim mode.
 
 # Step8:
 `bash<space>test.sh<enter>`
