@@ -22,6 +22,7 @@ Also, the expected output is wrong. I missed a `"c"` in the expected output. Aft
 
 ### Setup
 ![Image](5.png)
+
 1: All the files are under the `lab7` folder.
 2: `ListExamples.java` has the merge method as the screenshot 1. And `ListExamplesTests.java`has the tests as the screenshot 2.
 3: In the original post, I used the test beaker to run tests. After fixing the bugs, I create the `test.sh`. I used `bash test.sh` command to run tests.
